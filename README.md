@@ -1,11 +1,12 @@
 <h1>Image Processing API</h1>
+
 **1. Image Upload**: Allow users to upload images, validate formats (e.g., JPEG, PNG), and resize/compress as
 needed.
 
 **2. Image Resizing**: Resize images while maintaining aspect ratio, useful for mobile apps/web pages.
 
 **3. Image Filtering**: Apply filters like:
-        * Grayscale conversion
+        * Grayscale conversion 
         * Blur
         * Sharpen
         * Emboss
